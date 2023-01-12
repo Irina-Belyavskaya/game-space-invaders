@@ -1,0 +1,10 @@
+﻿  GameSettings.cpp
+  SpaceInvaders.cpp
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(283,90): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(397,82): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(502,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(675,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(675,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\Term_5\KURSOVAYA\SpaceInvaders\SpaceInvaders.cpp(787,23): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  Создание кода...
+  SpaceInvaders.vcxproj -> D:\University\Term_5\KURSOVAYA\SpaceInvaders\x64\Debug\SpaceInvaders.exe
